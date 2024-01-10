@@ -4,3 +4,4 @@
 3. Optimizing the weights of each stock in the portfolio using Modern Portfolio Theory
 4. Plotting the Markowitz curve for the selected stocks and determining the optimal weights that are expected to give us the highest returns for the lowest risk.
 5. Canva Presentation describing the findings: https://www.canva.com/design/DAFxsZ8-4sI/fPhuHQPefUDUDcopfJGcIg/edit
+6. You can change the stock tickers and the date range in the code to repeat the project and perform preliminary analysis on basic stock portfolios.
