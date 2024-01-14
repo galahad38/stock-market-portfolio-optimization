@@ -43,7 +43,8 @@ Dropped irrelevant columns and retained only 'Close' Price.
 ### Feature Engineering:
 Calculated the Daily Returns of each stock.
 
-### Data Visualization: Used Seaborn to visualize price change, price variance, correlation in price change, and daily returns, providing a clear comparison of Apple and Tesla's performance.
+### Data Visualization:
+Used Seaborn to visualize price change, price variance, correlation in price change, and daily returns, providing a clear comparison of Apple and Tesla's performance.
 
 ![Line Plots](https://github.com/galahad38/stock-market-portfolio-optimization/assets/19240929/f9d057d0-689a-406a-b16b-170d583f4afd)
 
