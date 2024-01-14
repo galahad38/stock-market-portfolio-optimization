@@ -55,7 +55,7 @@ We're able to see the impact of real-world events on the stock price of a compan
 
 The stock with the widest distribution curve is the one with the highest variance, and thus, the highest risk associated with it. In this case, surprisingly, it's Apple.
 
-![Pair Plot](https://github.com/galahad38/stock-market-portfolio-optimization/assets/19240929/4f9b766c-6e26-4e10-8adc-ed8b74435c49
+![Pair Plot](https://github.com/galahad38/stock-market-portfolio-optimization/assets/19240929/4f9b766c-6e26-4e10-8adc-ed8b74435c49)
 
 We can see that:
 * the Daily Returns of Apple and Boeing are highly correlated.
