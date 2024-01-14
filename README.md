@@ -77,4 +77,4 @@ I am satisfied with the outcome of this project. However it is simplistic and un
 1) I can use plotly to plot better plots, in higher dimensions, to better understand the price behaviour of the stocks.
 2) This project is limited to calculating the optimal weights of a two-stock portfolio. I can implement Machine Learning to overcome this.
 
-** However I will likely not pursue these objectives any time soon, so feel free to contribute to this Project! **
+**However I will likely not pursue these objectives any time soon, so feel free to contribute to this Project!**
