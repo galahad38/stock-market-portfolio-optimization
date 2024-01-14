@@ -46,20 +46,24 @@ Calculated the Daily Returns of each stock.
 ### Data Visualization: Used Seaborn to visualize price change, price variance, correlation in price change, and daily returns, providing a clear comparison of Apple and Tesla's performance.
 
 ![Line Plots](https://github.com/galahad38/stock-market-portfolio-optimization/assets/19240929/f9d057d0-689a-406a-b16b-170d583f4afd)
+
 We're able to see the impact of real-world events on the stock price of a company:
 * Tesla's stock price skyrockets in correlation to its phenomenal sales track record.
 * Boeing's stock price plummets in correlation to the Restrictions placed on Air-Travel due to the COVID-19 pandemic. 
 
 ![Distribution Plots](https://github.com/galahad38/stock-market-portfolio-optimization/assets/19240929/2bdd34f4-412b-4a3b-abce-def2a86e849e)
+
 The stock with the widest distribution curve is the one with the highest variance, and thus, the highest risk associated with it. In this case, surprisingly, it's Apple.
 
 ![Pair Plot](https://github.com/galahad38/stock-market-portfolio-optimization/assets/19240929/4f9b766c-6e26-4e10-8adc-ed8b74435c49
+
 We can see that:
 * the Daily Returns of Apple and Boeing are highly correlated.
 * the Daily Returns of Boeing and Tesla are not nearly as highly correlated.
 * the Daily Returns of Apple and Tesla are moderately correlated, and the value lies in between the other two.
 
 ![Cumulative Returns Plot](https://github.com/galahad38/stock-market-portfolio-optimization/assets/19240929/31ebd410-a1c6-4cf6-bc44-fb87cc8db081)
+
 If you'd invested $1 at the start of the chosen 5-year time period:
 * Tesla would've returned more than $12
 * Apple would've returned more than $1.5 (I believe there may have been a stock split at some point)
@@ -67,6 +71,7 @@ If you'd invested $1 at the start of the chosen 5-year time period:
 We shall proceed with Tesla and Apple in our portfolio, and try to calculate how much of our total capital should be invested in each stock in our two-stock portfolio.
 
 ![Markowitz Curve](https://github.com/galahad38/stock-market-portfolio-optimization/assets/19240929/a256e9fe-73a1-4939-aaf2-c21f7667b4ac)
+
 We can see that at a certain point, with increase in risk, there is an increase in returns. This is known as the Efficient Frontier.
 However we can see that if we were to proceed in the opposite direction, with increase in risk, there is a decrease in returns. This is known as the Inefficient Frontier. No one would want to invest in portfolios associated with this frontier.
 We can see our optimal portfolio at the minima of the parabola, providing the highest returns for the lowest risk.
