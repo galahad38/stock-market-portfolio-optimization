@@ -18,7 +18,7 @@ Sometimes GitHub is unable to Preview Code Blocks for Jupyter Notebooks. If this
      ```console
      C:\Windows\system32\ pip install ipykernal, jupyterlab, notebook, numpy, pandas, matplotlib, seaborn, yfinance
      ```
-3. Download the [Jupyter Notebook](https://github.com/galahad38/book-century-identifier/blob/main/building-the-naive-bayes-model.ipynb).
+3. Download the [Jupyter Notebook](https://github.com/galahad38/stock-market-portfolio-optimization/blob/main/stock-market-portfolio-optimization.ipynb).
 4. Launch Jupyter Notebook from the Start Menu, and navigate to the folder containing the dataset and Jupyter Notebook you just downloaded.
 5. Change the stock tickers and start and end dates in Section 2 as per your choice.
 6. Go to Cell -> Run All.
