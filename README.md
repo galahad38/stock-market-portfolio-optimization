@@ -12,7 +12,7 @@ Sometimes GitHub is unable to Preview Code Blocks for Jupyter Notebooks. If this
 
 ## How to build it yourself:
 
-1. Install [Python](https://www.python.org/downloads/):
+1. Install [Python](https://www.python.org/downloads/).
 2. Install non-standard Python libraries:
      launch command prompt and run this command:
      ```console
